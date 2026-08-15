@@ -1,0 +1,16 @@
+{
+  "name": "NexusTrader Financial Terminal",
+  "short_name": "NexusTrader",
+  "description": "Institutional-Grade Real-Time Financial Trading Terminal and Risk Management Suite",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#02040b",
+  "theme_color": "#04060f",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

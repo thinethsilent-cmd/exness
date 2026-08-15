@@ -1,0 +1,26 @@
+{
+  "name": "nexustrader-platform",
+  "version": "1.0.0",
+  "description": "Institutional-Grade Real-Time Financial Trading Terminal and Risk Management Suite",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8080",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "trading",
+    "terminal",
+    "forex",
+    "crypto",
+    "fintech",
+    "charts",
+    "canvas"
+  ],
+  "author": "NexusTrader Engine",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
